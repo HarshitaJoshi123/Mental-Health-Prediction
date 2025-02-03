@@ -1,6 +1,7 @@
 # **Mentalytics - Mental Health Prediction Model**
 
 With the advancement of technology, a significant amount of interest has been shown in its impact on mental health, especially among the clinical and academic sectors. The study explores the link between behavioral patterns of mental health indicators and technology use.
+Google Collab Link:  https://colab.research.google.com/drive/1OS8YOr7G_1VKrX8Tn9O00hEf7xIMxc-Q?usp=sharing
 
 ## **Model Overview**
 Five machine learning models were used to predict the outcomes of mental health:  
